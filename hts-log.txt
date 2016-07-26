@@ -1,0 +1,29 @@
+HTTrack3.48-21+htsswf+htsjava launched on Wed, 02 Mar 2016 16:18:55 at http://templatecycle.com/tshop/v-1.5/white/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://templatecycle.com/tshop/v-1.5/white/index.html -O1 "E:\My Templates\TSHOP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:20:37	Error: 	"Not Found" (404) at link templatecycle.com/tshop/v-1.5/white/ico/apple-touch-icon-57-precomposed.png (from templatecycle.com/tshop/v-1.5/white/index.html)
+16:29:56	Error: 	"Not Found" (404) at link templatecycle.com/tshop/v-1.5/white/san-remo-spaghetti (from templatecycle.com/tshop/v-1.5/white/product-details.html)
+16:29:56	Warning: 	Retry after error -5 (Unable to get server's address: Host desconocido. ) at link code.jquery.com/jquery-migrate-1.2.1.js (from templatecycle.com/tshop/v-1.5/white/product-details.html)
+16:29:56	Warning: 	Retry after error -4 (No data (connection closed)) at link fronteed.com/iCheck/icheck.js?v=1.0.1 (from templatecycle.com/tshop/v-1.5/white/category.html)
+16:29:56	Warning: 	Retry after error -4 (No data (connection closed)) at link templatecycle.com/tshop/v-1.5/white/images/slider/slider2.jpg (from templatecycle.com/tshop/v-1.5/white/index2.html)
+16:29:57	Error: 	"Not Found" (404) at link templatecycle.com/tshop/v-1.5/white/... (from templatecycle.com/tshop/v-1.5/white/product-details-style5.html)
+16:29:59	Error: 	"Not Found" (404) at link templatecycle.com/tshop/v-1.5/white/assets/css/ion.checkRadio.css (from templatecycle.com/tshop/v-1.5/white/account.html)
+16:29:59	Error: 	"Not Found" (404) at link templatecycle.com/tshop/v-1.5/white/assets/css/ion.checkRadio.cloudy.css (from templatecycle.com/tshop/v-1.5/white/account.html)
+16:30:00	Error: 	"Not Found" (404) at link templatecycle.com/tshop/v-1.5/white/post-details.html (from templatecycle.com/tshop/v-1.5/white/blog.html)
+16:30:00	Error: 	"Not Found" (404) at link templatecycle.com/tshop/v-1.5/white/assets/js/product-details.js (from templatecycle.com/tshop/v-1.5/white/single-product-modal.html)
+16:30:00	Error: 	"Not Found" (404) at link templatecycle.com/tshop/v-1.5/white/ajax/product-details.html (from templatecycle.com/tshop/v-1.5/white/ajax/product.html)
+16:30:00	Error: 	"Not Found" (404) at link templatecycle.com/tshop/v-1.5/white/ajax/images/product_details/low-res-white/1.jpg (from templatecycle.com/tshop/v-1.5/white/ajax/product.html)
+16:30:00	Error: 	"Not Found" (404) at link templatecycle.com/tshop/v-1.5/white/ajax/images/product_details/low-res-white/2.jpg (from templatecycle.com/tshop/v-1.5/white/ajax/product.html)
+16:30:00	Error: 	"Not Found" (404) at link templatecycle.com/tshop/v-1.5/white/ajax/images/product_details/low-res-white/3.jpg (from templatecycle.com/tshop/v-1.5/white/ajax/product.html)
+16:30:22	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link code.jquery.com/jquery-migrate-1.2.1.js (from templatecycle.com/tshop/v-1.5/white/product-details.html)
+16:30:22	Warning: 	Moved Permanently for fronteed.com/iCheck/icheck.js?v=1.0.1
+16:30:22	Warning: 	File has moved from fronteed.com/iCheck/icheck.js?v=1.0.1 to http://fronteed.com/?v=1.0.1
+16:30:22	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link code.jquery.com/jquery-migrate-1.2.1.js (from templatecycle.com/tshop/v-1.5/white/product-details.html)
+
+HTTrack Website Copier/3.48-21 mirror complete in 11 minutes 27 seconds : 427 links scanned, 409 files written (18801532 bytes overall) [14985376 bytes received at 21812 bytes/sec], 5488613 bytes transferred using HTTP compression in 169 files, ratio 24%, 9.4 requests per connection
+(12 errors, 6 warnings, 0 messages)
